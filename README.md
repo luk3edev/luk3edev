@@ -1,4 +1,4 @@
-# Hi, I'm L.G. 👋  
+# Hi, I'm Lukas 👋  
 🚀 Software Engineer | 💻 Web Developer | 
 
 ### 🛠 Tech Stack  
@@ -7,7 +7,7 @@
 ### 📌 Featured Projects  
 
 ### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=L-G&show_icons=true&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luk3edev&show_icons=true&theme=dark)  
 
 ### 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lukas-grinius-74394a175/)  

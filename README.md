@@ -13,4 +13,4 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luk3edev&show_icons=true&theme=dark)  
 
 ### 🌎 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lukas-grinius-74394a175/)  
+[![Site](https://lucode.tech/)  

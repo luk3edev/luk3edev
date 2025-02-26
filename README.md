@@ -13,4 +13,4 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=luk3edev&show_icons=true&theme=dark)  
 
 ### 🌎 Connect with Me  
-[![Site](https://lucode.tech/)]
+[![Site](https://img.shields.io/badge/Website-lucode.tech-blue)](https://lucode.tech/)
